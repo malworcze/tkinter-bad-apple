@@ -11,6 +11,7 @@ This program was coded in Python 3.11.x because I used PyGame for the real-time 
 ```
 pip install opencv-python pygame-ce pillow numpy
 ```
+
 and then run the ``script.py`` file
 
 
@@ -18,6 +19,12 @@ and then run the ``script.py`` file
 
 I showcased it here
 
-[![Video Demo](https://img.youtube.com/vi/D4BxdDolzf0/maxresdefault.jpg)](https://youtu.be/D4BxdDolzf0)
+<a href="https://youtu.be/D4BxdDolzf0">
+  <img src="https://img.youtube.com/vi/D4BxdDolzf0/maxresdefault.jpg" width="400" alt="Video Demo">
+</a>
+
 #
-[![Coded in - Python](https://img.shields.io/badge/Coded_in-Python-blue?logo=python)](https)
+
+<a href="https">
+  <img src="https://img.shields.io/badge/Coded_in-Python-blue?logo=python" width="150" alt="Coded in - Python">
+</a>
