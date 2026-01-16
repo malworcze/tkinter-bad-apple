@@ -17,6 +17,11 @@ This program was coded in Python 3.11.x because I used PyGame for the real-time 
 pip install opencv-python pygame-ce pillow numpy
 ```
 
+or
+```
+pip install -r requirements.txt
+```
+
 and then run the ``script.py`` file
 
 
