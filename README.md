@@ -10,7 +10,7 @@ This is a stupid little program that I made because I was bored
 ### Note: MAKE SURE TO INSTALL PYTHON TO PATH, OTHERWISE IT WILL NOT WORK!!
 
 
-Download the source-code [here]()
+Download the files [here](https://github.com/malworcze/tkinter-bad-apple/archive/refs/heads/main.zip)
 
 This program was coded in Python 3.11.x because I used PyGame for the real-time audio support but If you want to use the newest python you can use it too, There is some modules that I use to make this possible, you may install it with the command below using pip
 ```
