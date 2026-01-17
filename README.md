@@ -1,6 +1,6 @@
 
 <a href="https://">
-  <img src="apel.png" width="400" alt="Video Demo">
+  <img src="apel.png" width="400" alt="bad apple">
 </a>
 
 # Bad Apple!! Tkinter in real time and with Audio support
@@ -33,8 +33,5 @@ I showcased it here
   <img src="https://img.youtube.com/vi/D4BxdDolzf0/maxresdefault.jpg" width="400" alt="Video Demo">
 </a>
 
-#
-
-<a href="https">
-  <img src="https://img.shields.io/badge/Coded_in-Python-blue?logo=python" width="150" alt="Coded in - Python">
-</a>
+## Why did I do this?
+I did this because It's cool and I want to see how far Tkinter can go so I made this, I optimized it with RAM Caching which means Frames can load faster because It don't go into the I/O which is slow especially for mechnanical hard-drive systems, so I made the frames go to RAM instead because RAM is very fast *(dw it's only using less than 100mb)* and I add frame skipping so whenever the computer struggle it skips the frame instead (I did this by just putting the last frame as placeholder for the skipped frames, making the audio synced)
