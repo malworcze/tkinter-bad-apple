@@ -29,9 +29,7 @@ and then run the ``script.py`` file
 
 I showcased it here
 
-<a href="https://youtu.be/D4BxdDolzf0">
-  <img src="https://img.youtube.com/vi/D4BxdDolzf0/maxresdefault.jpg" width="400" alt="Video Demo">
-</a>
+<iframe type="text/html" frameborder="0" width="640" height="360" src="https://www.youtube.com/embed/D4BxdDolzf0" allowfullscreen></iframe>
 
 ## Why I did this project?
 I did this because It's cool and I want to see how far Tkinter can go so I made this, I optimized it with RAM Caching which means Frames can load faster because It don't go into the I/O which is slow especially for mechnanical hard-drive systems, so I made the frames go to RAM instead because RAM is very fast *(dw it's only using less than 100mb)* and I add frame skipping so whenever the computer struggle it skips the frame instead (I did this by just putting the last frame as placeholder for the skipped frames, making the audio synced)
